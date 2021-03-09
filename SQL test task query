@@ -1,1 +1,1 @@
-SELECT ProductName, CategoryName FROM ProductListTable
+SELECT ProductName,CategoryName FROM ProductListTable
